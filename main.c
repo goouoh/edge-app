@@ -1,11 +1,8 @@
 #include <signal.h>
 #include <stdio.h>
-
-
+#include <stdlib.h>
 
 #include "edge-lib.h"
-
-#include <stdlib.h>
 
 unsigned count = 0;
 int loop = 1;
