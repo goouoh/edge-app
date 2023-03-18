@@ -1,6 +1,5 @@
 #include <signal.h>
 #include <stdio.h>
-
 #include "edge-lib.h"
 #include <stdlib.h>
 unsigned count = 0;
